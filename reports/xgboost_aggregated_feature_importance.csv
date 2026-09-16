@@ -1,0 +1,20 @@
+Original Feature,Importance
+Contract,0.3895979
+InternetService,0.120175794
+OnlineSecurity,0.10896125
+TechSupport,0.087008916
+PaymentMethod,0.037734292
+tenure,0.031706456
+PaperlessBilling,0.029569266
+StreamingTV,0.028517442
+MultipleLines,0.028420243
+Dependents,0.023224164
+StreamingMovies,0.020959513
+OnlineBackup,0.017458808
+PhoneService,0.015579307
+TotalCharges,0.01476337
+DeviceProtection,0.013710104
+MonthlyCharges,0.013382442
+gender,0.012449033
+SeniorCitizen,0.0067816703
+Partner,0.0

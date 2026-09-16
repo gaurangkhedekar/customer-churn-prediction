@@ -1,0 +1,5 @@
+{
+    "model": "XGBoost",
+    "threshold": 0.33801376819610596,
+    "selection_method": "F1-score optimization using out-of-fold training probabilities"
+}
